@@ -1,4 +1,4 @@
 <a align="right" href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="150" alt="sogo's Dev Card"/></a>
-<p align="left">
+<p align="right">
   <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
 </p>
