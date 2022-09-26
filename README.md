@@ -1,7 +1,8 @@
 <body>
-  <h2>ようこそ!<h2/>
+  <h2>ようこそ!<h3/>
   <p align="right">
-    <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="180" alt="sogo's Dev Card"/>Hey! I'm sogo.</a>
+    <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="180" alt="sogo's Dev Card"/></a>
+    <h3 align="right">Hey! I'm sogo. (≧▽≦)/<h3/>
   </p>
 <hr>
   <p align="center">
