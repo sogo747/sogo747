@@ -8,9 +8,8 @@
     I'm a self-teaching (独学) frontend developer
     <br>
     <br>
-    Currently I'm learning:
+    <h3>Currently I'm learning:</h3>
     <ul>
-    <br>
       <li>Python</li>
       <li>Javascript</li>
       <li>Lua</li>
