@@ -9,6 +9,6 @@
   </h3>
   <br>
     <p align="justify">
-      <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
+      <img align="center" src="https://count.getloli.com/get/@xsogox?theme=asoul" />
     </p>
 </body>
