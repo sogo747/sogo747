@@ -9,7 +9,7 @@
   </p>
   <br>
   <hr>
-    <p align="center">
+    <p align="justify">
       <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
     </p>
   <hr>
