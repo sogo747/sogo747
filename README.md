@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <img src="https://c.tenor.com/wLm08HRJNa8AAAAi/heronic-pixel.gif" width="80"/>
+    <img src="https://c.tenor.com/nbZes5M4He4AAAAi/kokichi-danganronpa.gif" width="80"/>
   </div>
   <h2>ようこそ!</h2>
   <p align="right">
