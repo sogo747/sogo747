@@ -10,6 +10,7 @@
     <br>
     Currently I'm learning:
     <ul>
+    <br>
       <li>Python</li>
       <li>Javascript</li>
       <li>Lua</li>
