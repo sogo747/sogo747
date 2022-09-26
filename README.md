@@ -10,5 +10,5 @@
     </marquee>
   </h3>
   <br>
-  <img align="center" src="https://count.getloli.com/get/@xsogox?theme=asoul" />
+  <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
 </body>
