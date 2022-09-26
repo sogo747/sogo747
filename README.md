@@ -1,5 +1,7 @@
 <body>
-  <img src="https://c.tenor.com/wLm08HRJNa8AAAAi/heronic-pixel.gif" width="80" align="center" />
+  <div align="center">
+    <img src="https://c.tenor.com/wLm08HRJNa8AAAAi/heronic-pixel.gif" width="80"/>
+  </div>
   <h2>ようこそ!</h2>
   <p align="right">
     <h3 align="left">Hey! I'm sogo. (≧▽≦)/</h3>
