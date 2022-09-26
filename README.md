@@ -17,7 +17,7 @@
       <li>Rust</li>
   </h4>
   <br>
-  <h2 align="center">
+  <div align="center">
     <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
-  <h2/>
+  <div/>
 </body>
