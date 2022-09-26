@@ -10,7 +10,5 @@
     </marquee>
   </h3>
   <br>
-    <p align="justify">
-      <img align="center" src="https://count.getloli.com/get/@xsogox?theme=asoul" />
-    </p>
+  <img align="center" src="https://count.getloli.com/get/@xsogox?theme=asoul" />
 </body>
