@@ -1,5 +1,5 @@
 <body>
-  <h2>ようこそ! <img href="https://c.tenor.com/wLm08HRJNa8AAAAi/heronic-pixel.gif" /> </h2>
+  <h2>ようこそ! <img src="https://c.tenor.com/wLm08HRJNa8AAAAi/heronic-pixel.gif" /> </h2>
   <p align="right">
     <h3 align="left">Hey! I'm sogo. (≧▽≦)/</h3>
     <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="180" alt="sogo's Dev Card"                  align="right"/></a>
