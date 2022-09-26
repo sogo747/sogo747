@@ -1,5 +1,11 @@
 <body>
+  <div align="left">
+    <img src="https://c.tenor.com/nbZes5M4He4AAAAi/kokichi-danganronpa.gif" width="80"/>
+  </div>
   <div align="center">
+    <img src="https://c.tenor.com/nbZes5M4He4AAAAi/kokichi-danganronpa.gif" width="80"/>
+  </div>
+  <div align="right">
     <img src="https://c.tenor.com/nbZes5M4He4AAAAi/kokichi-danganronpa.gif" width="80"/>
   </div>
   <h2>ようこそ!</h2>
