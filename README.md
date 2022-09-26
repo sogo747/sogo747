@@ -1,3 +1,4 @@
+<html>
 <body>
   <h2>ようこそ!</h2>
   <p align="right">
@@ -12,3 +13,4 @@
   <br>
   <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
 </body>
+</html>
