@@ -1,5 +1,5 @@
 <body>
-  <h2>ようこそ!</h2>
+  <h2>ようこそ! <div class="tenor-gif-embed" data-postid="17499055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/heronic-pixel-heronic-phantomwolves-blink-pixels-gif-17499055">Heronic Pixel Sticker</a>from <a href="https://tenor.com/search/heronic-stickers">Heronic Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> </h2>
   <p align="right">
     <h3 align="left">Hey! I'm sogo. (≧▽≦)/</h3>
     <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="180" alt="sogo's Dev Card"                  align="right"/></a>
