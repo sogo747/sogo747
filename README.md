@@ -8,6 +8,7 @@
   <h4>
     i'm a self-taught (独学) frontend developer and i speak multiple languages (well.. more or less ¯\_(ツ)_/¯)
     <br>
+    <br>
     currently i'm learning:
     <ul>
       <li>Python</li>
