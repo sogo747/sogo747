@@ -5,10 +5,10 @@
     <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=byz" width="180" alt="sogo's Dev Card"                  align="right"/></a>
   </p>
   <h4>
-    i'm a self-taught (独学) frontend developer and i speak multiple languages (well.. more or less ¯\_(ツ)_/¯)
+    I'm a self-teaching (独学) frontend developer
     <br>
     <br>
-    currently i'm learning:
+    Currently I'm learning:
     <ul>
       <li>Python</li>
       <li>Javascript</li>
