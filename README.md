@@ -11,7 +11,7 @@
     Student of Computer Science; focusing on systems and networks, security, web dev and more. Find me on Telegram(<a href="https://t.me/xsogox">@xsogox<a/>) or Discord(<a href="https://www.discordapp.com/users/970424628155670599">SOGO#8865<a/>) <br><br> or drop a mail! ➜ <a href=mailto:"xsogox@proton.me">xsogox@proton.me</a>
   </h4>
   <br>
-  <div align="center">
+  <div>
     <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
   <div/>
 </body>
