@@ -9,15 +9,6 @@
   </p>
   <h4>
     Student of Computer Science; focusing on systems and networks, security, web dev and more. Find me on Telegram(<a href="https://t.me/xsogox">@xsogox<a/>) or Discord(<a href="https://www.discordapp.com/users/970424628155670599">SOGO#8865<a/>) <br><br> or drop a mail! ➜ <a href=mailto:"xsogox@proton.me">xsogox@proton.me</a>
-    <br>
-    <br>
-    <h3>Currently I'm learning:</h3>
-    <ul>
-      <li>Python</li>
-      <li>Javascript</li>
-      <li>Lua</li>
-      <li>Go</li>
-      <li>Rust</li>
   </h4>
   <br>
   <div align="center">
