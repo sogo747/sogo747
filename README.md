@@ -4,7 +4,7 @@
   </div>
   <h2>ようこそ!</h2>
   <p align="right">
-    <h3 align="left">i'm sogo_! o(*^▽^*)┛</h3>
+    <h3 align="left">i'm sogo_ o(*^▽^*)┛ !1!1</h3> 
     <a href="https://app.daily.dev/sogo"><img src="https://api.daily.dev/devcards/51769bce454c4201b0cdbe8ed87dee99.png?r=dz6" width="180" alt="sogo's Dev Card"                  align="right"/></a>
   </p>
   <h4>
