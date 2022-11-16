@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <img src="https://media.tenor.com/pTP-f4a0rhIAAAAi/bunny-drink.gif" width="100"/>
+    <img src="https://media.tenor.com/pTP-f4a0rhIAAAAi/bunny-drink.gif" width="145"/>
   </div>
   <h2>ようこそ!</h2>
   <p align="right">
