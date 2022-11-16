@@ -12,7 +12,6 @@
   </div>
   <br>
   <br>
-  <br>
   <div>
     <img src="https://count.getloli.com/get/@xsogox?theme=asoul" />
   <div/>
