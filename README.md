@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <img src="https://media.tenor.com/IcfYYw7vHb8AAAAi/penguin-cute.gif" width="75"/>
+    <img src="https://tenor.com/view/bunny-drink-drinking-bunny-ears-beer-gif-13773159" width="75"/>
   </div>
   <h2>ようこそ!</h2>
   <p align="right">
